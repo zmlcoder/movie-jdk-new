@@ -1,1 +1,1 @@
-#movie-jdk11
+One project to learn new JDK features.
