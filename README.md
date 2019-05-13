@@ -1,1 +1,1 @@
-One project to learn new JDK features.
+One project to learn new JAVA features.
